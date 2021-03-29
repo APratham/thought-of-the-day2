@@ -1,0 +1,22 @@
+{
+  "categories":[
+    "marvel",
+    "mcu",
+    "ironman"
+  ],
+  "marvel": [
+    {
+      "thought": "Marvel's first family, the Fantastic Four, is the first family in comic book history"
+    }
+  ],
+  "mcu": [
+    {
+      "thought": "Spider-Man was written into Civil War much before Marvel had the rights to use him"
+    }
+  ],
+  "ironman": [
+    {
+      "thought": "I am Iron Man"
+    }
+  ]
+}
